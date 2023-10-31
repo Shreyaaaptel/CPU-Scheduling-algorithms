@@ -1,0 +1,6 @@
+Round Robin Algorithm:
+
+Average turnaround time: 11.00
+Average waiting time: 7.00
+Gantt Chart:
+P1 | P1 | P2 | P1 | P2 | P3 | P4 | P2 | P3 | P4 | P5 | P2 | P3 | P4 | P5 | P2 | P3 | P4 | P2 | P4 | 

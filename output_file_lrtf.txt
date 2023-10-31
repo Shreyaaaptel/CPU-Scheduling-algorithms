@@ -1,0 +1,13 @@
+Longest Remaining Time First Scheduling Algorithm:
+
+
+| P0 | P0 | P1 | P1 | P1 | P2 | P3 | P3 | P1 | P2 | P3 | P1 | P2 | P3 | P4 | P0 | P1 | P2 | P3 | P4 |
+
+Process		BurstTime	WaitingTime	TurnaroundTime
+P[0]		3		13		16
+P[1]		6		9		15
+P[2]		4		10		14
+P[3]		5		8		13
+P[4]		2		10		12
+Average waiting time: 10.00
+Average turnaround time: 14.00

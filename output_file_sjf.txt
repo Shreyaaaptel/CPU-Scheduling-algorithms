@@ -1,0 +1,6 @@
+Shortest Job First Scheduling Algorithm:
+
+Average turnaround time: 7.60
+Average waiting time: 3.60
+Gantt Chart:
+P5 |P5 |P1 |P1 |P1 |P3 |P3 |P3 |P3 |P4 |P4 |P4 |P4 |P4 |P2 |P2 |P2 |P2 |P2 |P2 |

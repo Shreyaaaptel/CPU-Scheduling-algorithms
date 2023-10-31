@@ -1,0 +1,8 @@
+5
+0 3
+2 6
+4 4
+6 5
+8 2
+//first line number of process
+//Arrival Time, CPU burst time

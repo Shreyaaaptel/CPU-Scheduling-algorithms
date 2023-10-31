@@ -1,0 +1,8 @@
+5 1
+1 0 3
+2 2 6
+3 4 4
+4 6 5
+5 8 2
+//first line number of process, Time quantum
+//ProcessID, Arrival Time, CPU burst time

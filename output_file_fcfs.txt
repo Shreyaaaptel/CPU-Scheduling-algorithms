@@ -1,0 +1,6 @@
+First Come First Served Scheduling Algorithm:
+
+Average turnaround time: 8.60
+Average waiting time: 4.60
+Gantt Chart:
+| P1 | P1 | P1 | P2 | P2 | P2 | P2 | P2 | P2 | P3 | P3 | P3 | P3 | P4 | P4 | P4 | P4 | P4 | P5 | P5 |
